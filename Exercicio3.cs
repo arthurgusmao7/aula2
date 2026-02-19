@@ -2,7 +2,7 @@
 public static class Exercicio3
 {
     public static void Executar()
-    {
+     {
         int resultado = 0;
         int soma1 = 0;
         int soma2 = 0;
@@ -16,7 +16,7 @@ public static class Exercicio3
         resultado = soma1 + soma2;
 
         //Console.WriteLine("Resultado da soma: " + resultado);
-        Console.writeline($"Resultado da soma : {resultado}");
+        Console.WriteLine($"Resultado da soma : {resultado}");
 
         Console.WriteLine();
     }
